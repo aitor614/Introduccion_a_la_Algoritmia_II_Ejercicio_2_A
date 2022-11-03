@@ -26,7 +26,7 @@ int main(void)
         if (a < b) {
             mayor = b;
             menor = a;
-            printf("El numero %d es menor que el numero %d ", menor, mayor);
+            printf("El numero %d es mayor que el numero %d ", mayor, menor);
         }
         if (a == b) {
             printf("Los numeros son iguales \n");
